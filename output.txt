@@ -1,0 +1,35 @@
+A MAN A PLAN A CANAL PANAMA 
+
+
+ terminated normally. No Error
+
+
+ terminated abnormally due to Operation Code Error
+IC=28, IR=, C=1, R=HOPE, TTL=12, TTC=7, TLL=3, LLC=03 LITTLE PIGS WENT TO OS CLASS.
+THE WOLF ATE ONE!
+2 LITTLE PIGS WENT TO OS CLASS.
+THE WOLF ATE ONE!
+1 LITTLE PIGS WENT TO OS CLASS.
+THE WOLF ATE ONE!
+
+
+ terminated abnormally due to Time Limit Exceeded
+IC=15, IR=GD501 LI, C=0, R=1 LI, TTL=17, TTC=17, TLL=7, LLC=6*
+*
+*
+
+
+ terminated abnormally due to Time Limit Exceeded
+IC=13, IR=PD50*, C=0, R=*, TTL=16, TTC=16, TLL=5, LLC=3
+
+ terminated abnormally due to Time Limit Exceeded
+IC=16, IR=LR57   I, C=0, R=   I, TTL=20, TTC=20, TLL=2, LLC=0VIT IS GOOD
+VIIT IS GOOD
+
+
+ terminated abnormally due to Time Limit Exceeded
+IC=8, IR=GD40VIT , C=0, R=VIT , TTL=10, TTC=10, TLL=3, LLC=2CAT CAN EAT RAT
+RAT CAN NOT EAT CAT
+
+
+ terminated abnormally due to Time Limit Exceeded

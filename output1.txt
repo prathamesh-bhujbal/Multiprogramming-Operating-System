@@ -1,0 +1,27 @@
+*                                       
+*   *                                   
+*   *   *                               
+*   *                                   
+Job ID: 0202
+  Line limit exceeded error 
+IC is 15
+IR has PD60
+TTC is 15
+TLC is 5
+
+
+Job ID: 0002
+  Time limit exceeded error 
+IC is 2
+IR has GD30
+TTC is 2
+TLC is 0
+
+
+Job ID: 0002
+  Time limit exceeded error 
+IC is 2
+IR has GD30
+TTC is 2
+TLC is 0
+

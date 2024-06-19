@@ -1,0 +1,37 @@
+
+Job ID: 0002
+  Time limit exceeded error 
+IC is 2
+IR has GD30
+TTC is 2
+TLC is 0
+
+VIIT                                    
+VIIT                                    
+Job ID: 0002
+  Time limit exceeded error 
+IC is 6
+IR has PD30
+TTC is 6
+TLC is 2
+
+VIIT                                    
+VIIT                                    
+NOT                                     
+Job ID: 0002	
+  Time limit exceeded error 
+IC is 11
+IR has PD40
+TTC is 10
+TLC is 3
+
+VIIT                                    
+VIIT                                    
+NOT                                     
+Job ID: 0002	
+  Time limit exceeded error 
+IC is 11
+IR has PD40
+TTC is 10
+TLC is 3
+
